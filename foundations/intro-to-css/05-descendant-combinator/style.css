@@ -1,1 +1,12 @@
 /* Add CSS Styling */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container .text {
+   background-color: yellow;
+   text-align: center;
+   color: red;
+   font-size: 20px;
+}
