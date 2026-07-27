@@ -1,1 +1,25 @@
 /* Add CSS Styling */
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.p div {
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.odd {
+    background-color: lightpink;
+    font-size: 24px;
+}
+
+#blue {
+    color: blue;
+    font-size: 36px;
+}
+
+#green {
+    background-color: green;
+    font-weight: bold;
+    font-size: 24px;
+}
