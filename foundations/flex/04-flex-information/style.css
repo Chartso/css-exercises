@@ -11,6 +11,7 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  margin-right: 50px;
 }
 
 /* do not edit this footer */
@@ -30,17 +31,10 @@ img {
 .container {
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
   gap: 52px;
 }
 
 .info {
-  max-width: 250px;
-  display: flex;
-  align-items: center;
-  gap: 15px;
-}
-
-.text {
-  text-align: center;
+  max-width: 200px;
 }
