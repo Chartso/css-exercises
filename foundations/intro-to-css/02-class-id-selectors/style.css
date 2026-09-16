@@ -1,1 +1,17 @@
-/* Add CSS Styling */
+.pink  {
+  background-color: pink;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+
+}
+
+#blue {
+    color: blue;
+    font-size: 36px;
+}
+
+#green {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
