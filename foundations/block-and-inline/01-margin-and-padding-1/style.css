@@ -9,6 +9,9 @@ body {
   /* CHANGE ME */
   padding: 0px;
   margin: 0px;
+  font-size: 32px;
+  padding: 32px;
+  margin: 12px;
 }
 
 .two {
@@ -25,4 +28,8 @@ body {
   /* CHANGE ME */
   padding: 0px;
   margin-left: 0px;
+  font-size: 32px ;
+  padding: 32px;
+  margin: 48px;
+  margin-left: auto;
 }
